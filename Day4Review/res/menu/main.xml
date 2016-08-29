@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/activityMenuItem" android:title="Activity"></item>
+   <item android:id="@+id/receiverMenuItem" android:title="Receiver"></item>
+     <item android:id="@+id/serviceMenuItem" android:title="Service"></item>      
+    
+
+</menu>
